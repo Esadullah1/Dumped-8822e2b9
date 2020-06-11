@@ -6,13 +6,4 @@
 
 	var_dump($var1);
 	var_dump($integ);
-
-
-
-
-
-
-
-
-
- ?>
+?>
